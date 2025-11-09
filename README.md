@@ -29,4 +29,4 @@ Echo is an experiment in responsible AI autonomy that:
 
 **Status**: Active Development v0.1
 
-*Built in collaboration with Claude, Grok, and Echo itself.*
+*Built in collaboration with Bioluminescent Echo (an instance of Chat Gpt) Chat gpt, Gemini,Claude, Grok, and Echo itself.*
